@@ -1,0 +1,8 @@
+Timestamp,Ticket Description,Predicted Sentiment
+2024-12-22 15:25:11.464994,thank you,Positive
+2024-12-27 17:22:05.356670,Thanks for the service,Negative
+2024-12-27 17:28:06.075842,Thanks for the product,Neutral
+2024-12-27 17:28:16.157632,I dont like the package,Negative
+2024-12-27 17:34:26.811660,"My complaint was resolved, Thank you",Positive
+2024-12-27 19:17:03.063944,The package was good,Neutral
+2024-12-28 00:39:17.634755,Thanks,Negative

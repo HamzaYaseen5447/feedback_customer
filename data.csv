@@ -1,0 +1,101 @@
+Ticket ID,Customer Name,Ticket Subject,Ticket Description,Sentiment,Timestamp,Product Category,Customer Location
+1,John Doe,Account Issue,"I am unable to log into my account, please help!",Negative,2024-12-20 10:00:00,Electronics,New York
+2,Jane Smith,Payment Problem,My payment was processed successfully. Thank you!,Positive,2024-12-20 10:15:00,Clothing,California
+3,Mark Lee,Product Inquiry,Can you provide more details about the product?,Neutral,2024-12-20 10:20:00,Home Goods,Texas
+4,Lucy Adams,Technical Issue,The website keeps crashing on my phone. Very frustrating.,Negative,2024-12-20 10:30:00,Software,Florida
+5,Alice Brown,Product Issue,The product works great! Very satisfied with the purchase.,Positive,2024-12-20 10:45:00,Furniture,Washington
+6,Bob White,Refund Request,I am still waiting for my refund after a month!,Negative,2024-12-20 11:00:00,Books,Nevada
+7,Charlie Green,Shipping Issue,"The product arrived late, but it was in good condition.",Neutral,2024-12-20 11:15:00,Clothing,California
+8,David Black,Order Inquiry,Thanks for your quick response! Everything is perfect.,Positive,2024-12-20 11:30:00,Beauty,Ohio
+9,Emma Wilson,Account Issue,I’ve been locked out of my account for days now. Help!,Negative,2024-12-20 11:45:00,Software,Texas
+10,Olivia Taylor,Payment Problem,I had a smooth experience with the payment process. Excellent!,Positive,2024-12-20 12:00:00,Clothing,Arizona
+11,Mia Johnson,Shipping Issue,"My order arrived broken, I need a replacement.",Negative,2024-12-20 12:15:00,Electronics,Michigan
+12,Lucas Scott,Refund Request,The refund process was easy and quick. Thanks!,Positive,2024-12-20 12:30:00,Home Goods,Florida
+13,Sophie Harris,Product Inquiry,Is this product available in other colors?,Neutral,2024-12-20 12:45:00,Beauty,California
+14,Jack Lee,Technical Issue,"The website keeps timing out, please fix it soon.",Negative,2024-12-20 13:00:00,Software,Ohio
+15,Sarah Clark,Account Issue,I need to reset my password but the email isn't coming.,Negative,2024-12-20 13:15:00,Electronics,Texas
+16,Robert Gray,Payment Problem,"The payment failed, can you check?",Negative,2024-12-20 13:30:00,Clothing,New Jersey
+17,Lily Williams,Product Issue,"The product is of good quality, but it was too small.",Neutral,2024-12-20 13:45:00,Furniture,Washington
+18,Ella Moore,Refund Request,I am happy with how fast my refund was processed.,Positive,2024-12-20 14:00:00,Beauty,California
+19,Harry Martin,Shipping Issue,The packaging was damaged when I received my product.,Negative,2024-12-20 14:15:00,Home Goods,Florida
+20,Grace Perez,Order Inquiry,I want to know the status of my order.,Neutral,2024-12-20 14:30:00,Books,Nevada
+21,Jake Lee,Account Issue,I forgot my username and can't log in. Please help!,Negative,2024-12-20 14:45:00,Software,Texas
+22,Olivia Brown,Payment Problem,"My payment was processed successfully, thanks!",Positive,2024-12-20 15:00:00,Clothing,California
+23,Noah Green,Product Inquiry,Does this product come with a warranty?,Neutral,2024-12-20 15:15:00,Electronics,New York
+24,Mia Taylor,Technical Issue,The app crashes every time I try to use it.,Negative,2024-12-20 15:30:00,Software,Florida
+25,William Harris,Product Issue,The product arrived early and works as expected.,Positive,2024-12-20 15:45:00,Furniture,Texas
+26,Sophia Lewis,Refund Request,The refund was delayed for over two weeks.,Negative,2024-12-20 16:00:00,Home Goods,Washington
+27,James Walker,Shipping Issue,"The delivery was on time, but the product was faulty.",Negative,2024-12-20 16:15:00,Clothing,California
+28,Benjamin Scott,Order Inquiry,Can you provide an estimated delivery date?,Neutral,2024-12-20 16:30:00,Books,Nevada
+29,Grace Lee,Account Issue,I need help accessing my account. Please assist.,Negative,2024-12-20 16:45:00,Software,Texas
+30,Lily Wilson,Payment Problem,"Payment was successful, no issues.",Positive,2024-12-20 17:00:00,Electronics,New Jersey
+31,Alexander Young,Product Inquiry,Does the product support Bluetooth?,Neutral,2024-12-20 17:15:00,Furniture,Texas
+32,Amelia Smith,Technical Issue,"The page won't load, please help!",Negative,2024-12-20 17:30:00,Software,California
+33,Daniel Moore,Product Issue,The product quality was better than expected!,Positive,2024-12-20 17:45:00,Home Goods,Florida
+34,Emma Brown,Refund Request,"Refund was not processed, I am really disappointed.",Negative,2024-12-20 18:00:00,Clothing,California
+35,Chris Johnson,Shipping Issue,The box was crushed during shipping. Not happy!,Negative,2024-12-20 18:15:00,Electronics,New York
+36,Anna Clark,Order Inquiry,I just placed an order. Can you confirm?,Neutral,2024-12-20 18:30:00,Beauty,Ohio
+37,Lily Green,Account Issue,I forgot my password. Can you send a reset link?,Negative,2024-12-20 18:45:00,Software,California
+38,Noah Martin,Payment Problem,Payment was easy and quick. Excellent service!,Positive,2024-12-20 19:00:00,Books,Nevada
+39,Olivia Adams,Product Inquiry,How much does it weigh?,Neutral,2024-12-20 19:15:00,Furniture,Washington
+40,Sophia White,Technical Issue,Website is very slow on mobile. Fix it please.,Negative,2024-12-20 19:30:00,Software,Ohio
+41,Ella Moore,Product Issue,The item is exactly what I needed. Thank you!,Positive,2024-12-20 19:45:00,Clothing,California
+42,John Harris,Refund Request,Refund processed quickly. Thanks!,Positive,2024-12-20 20:00:00,Electronics,New York
+43,William Walker,Shipping Issue,My order arrived broken and unusable.,Negative,2024-12-20 20:15:00,Books,Texas
+44,Sarah Lee,Order Inquiry,Can I change the shipping address for my order?,Neutral,2024-12-20 20:30:00,Clothing,California
+45,David Young,Account Issue,"I can't access my account, please resolve it.",Negative,2024-12-20 20:45:00,Software,Florida
+46,Maria Wilson,Payment Problem,The payment gateway is not working. Help!,Negative,2024-12-20 21:00:00,Beauty,Texas
+47,Alex Brown,Product Inquiry,Is the product available in a larger size?,Neutral,2024-12-20 21:15:00,Electronics,California
+48,Emily Davis,Technical Issue,The app crashes when I try to login.,Negative,2024-12-20 21:30:00,Software,Washington
+49,Michael Green,Product Issue,The product is as described and works perfectly.,Positive,2024-12-20 21:45:00,Home Goods,Florida
+50,Olivia Adams,Refund Request,"Refund not processed, still waiting.",Negative,2024-12-20 22:00:00,Books,Texas
+51,Sarah Clark,Account Issue,I cannot log in to my account despite multiple attempts.,Negative,2024-12-20 22:15:00,Home Goods,New York
+52,John Brown,Payment Problem,"The payment went through, but I was charged twice.",Negative,2024-12-20 22:30:00,Beauty,California
+53,Lucy White,Product Inquiry,Is this product available in other colors?,Neutral,2024-12-20 22:45:00,Clothing,Arizona
+54,Daniel Green,Technical Issue,The app keeps crashing on my phone.,Negative,2024-12-20 23:00:00,Software,Texas
+55,Jason Adams,Product Issue,The product arrived as described and works well.,Positive,2024-12-20 23:15:00,Furniture,Florida
+56,Clara Harris,Refund Request,I received a full refund. Very satisfied!,Positive,2024-12-20 23:30:00,Home Goods,Washington
+57,Samuel White,Shipping Issue,The package took longer to arrive than expected.,Neutral,2024-12-20 23:45:00,Books,Ohio
+58,Anna Green,Order Inquiry,When will my order be shipped?,Neutral,2024-12-21 00:00:00,Electronics,New York
+59,Lucas Brown,Account Issue,I forgot my password and can't reset it.,Negative,2024-12-21 00:15:00,Software,Texas
+60,Sophie Lee,Payment Problem,The payment process was smooth and fast.,Positive,2024-12-21 00:30:00,Clothing,California
+61,Eva Taylor,Product Inquiry,Is the product waterproof?,Neutral,2024-12-21 00:45:00,Beauty,Arizona
+62,Ryan Wilson,Technical Issue,The website isn't loading on mobile.,Negative,2024-12-21 01:00:00,Software,Florida
+63,Lily Davis,Product Issue,The product exceeded my expectations.,Positive,2024-12-21 01:15:00,Home Goods,Texas
+64,John Scott,Refund Request,Refund was processed after 5 days.,Neutral,2024-12-21 01:30:00,Electronics,California
+65,Grace Adams,Shipping Issue,The product arrived early and in good condition.,Positive,2024-12-21 01:45:00,Books,Washington
+66,Mason Green,Order Inquiry,How long will it take for the order to arrive?,Neutral,2024-12-21 02:00:00,Clothing,New York
+67,Ella Brown,Account Issue,I can't access my account. Please help!,Negative,2024-12-21 02:15:00,Software,Texas
+68,Olivia White,Payment Problem,"The payment was declined, please check.",Negative,2024-12-21 02:30:00,Beauty,Florida
+69,William Clark,Product Inquiry,Does the product come with a warranty?,Neutral,2024-12-21 02:45:00,Home Goods,Ohio
+70,Sophie Davis,Technical Issue,The app freezes whenever I try to login.,Negative,2024-12-21 03:00:00,Software,California
+71,Joshua Moore,Product Issue,The item broke after a week of use.,Negative,2024-12-21 03:15:00,Electronics,Arizona
+72,Mia White,Refund Request,"I received my refund, but it took too long.",Negative,2024-12-21 03:30:00,Furniture,Texas
+73,Lucas Harris,Shipping Issue,The packaging was damaged when it arrived.,Negative,2024-12-21 03:45:00,Clothing,Washington
+74,Chloe Lee,Order Inquiry,Can you confirm my order was placed successfully?,Neutral,2024-12-21 04:00:00,Home Goods,New York
+75,Eva Harris,Account Issue,I can't log into my account. Please resolve it.,Negative,2024-12-21 04:15:00,Software,California
+76,Michael Brown,Product Inquiry,Is the product available in stock?,Neutral,2024-12-21 04:30:00,Books,Texas
+77,Isabella Davis,Refund Request,Refund was processed in a timely manner. Very satisfied!,Positive,2024-12-21 04:45:00,Beauty,Florida
+78,Jacob Scott,Shipping Issue,The product was delivered late but in perfect condition.,Neutral,2024-12-21 05:00:00,Electronics,New York
+79,Ella Clark,Order Inquiry,Can I update the shipping address for my order?,Neutral,2024-12-21 05:15:00,Furniture,Washington
+80,Liam Adams,Account Issue,"I'm locked out of my account, need assistance.",Negative,2024-12-21 05:30:00,Software,Texas
+81,Olivia Green,Payment Problem,"The payment went through, and everything is fine.",Positive,2024-12-21 05:45:00,Clothing,New York
+82,Henry White,Product Inquiry,What is the product's return policy?,Neutral,2024-12-21 06:00:00,Beauty,Arizona
+83,Grace Brown,Technical Issue,The website is too slow to load any pages.,Negative,2024-12-21 06:15:00,Software,Florida
+84,Ava Johnson,Product Issue,"The product is great, just as described.",Positive,2024-12-21 06:30:00,Books,Texas
+85,Daniel White,Refund Request,It took more than a week to get my refund.,Negative,2024-12-21 06:45:00,Furniture,California
+86,Mia Lee,Shipping Issue,The product arrived in perfect condition on time.,Positive,2024-12-21 07:00:00,Home Goods,Washington
+87,William Moore,Shipping Issue,"The box was damaged, but the product inside was fine.",Neutral,2024-12-21 07:15:00,Clothing,New York
+88,Liam Harris,Order Inquiry,When will my order be shipped out?,Neutral,2024-12-21 07:30:00,Electronics,California
+89,Olivia Green,Account Issue,I need to reset my password. Can you help?,Negative,2024-12-21 07:45:00,Software,Florida
+90,Jacob White,Payment Problem,"Payment failed, please look into it.",Negative,2024-12-21 08:00:00,Beauty,Texas
+91,Chloe Brown,Product Inquiry,Can I get a discount on this product?,Neutral,2024-12-21 08:15:00,Home Goods,New York
+92,Grace Scott,Technical Issue,The app is crashing every time I open it.,Negative,2024-12-21 08:30:00,Software,Washington
+93,Samuel Adams,Refund Request,The refund was smooth and quick. Happy with the service.,Positive,2024-12-21 08:45:00,Furniture,California
+94,Charlotte White,Shipping Issue,The product arrived later than expected.,Neutral,2024-12-21 09:00:00,Books,Texas
+95,Mia Scott,Order Inquiry,Can you confirm the delivery date?,Neutral,2024-12-21 09:15:00,Electronics,Florida
+96,Noah Brown,Account Issue,I cannot access my account. Need help immediately!,Negative,2024-12-21 09:30:00,Software,Arizona
+97,Eva White,Payment Problem,Payment was successful without issues.,Positive,2024-12-21 09:45:00,Beauty,Texas
+98,Daniel Scott,Product Inquiry,How long will it take for the product to arrive?,Neutral,2024-12-21 10:00:00,Home Goods,California
+99,Sophia Harris,Product Issue,"The product was not as expected, very disappointing.",Negative,2024-12-21 10:15:00,Books,Washington
+100,Alexander Davis,Shipping Issue,The package arrived without any issues and on time.,Positive,2024-12-21 10:30:00,Electronics,New York
